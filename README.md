@@ -8,7 +8,7 @@
 
 - :brain: Currently, I am engineering AI systems for diagnostics
 - :purple_heart: The part I love most about my work is working with data
-- :seedling: I am always trying to grow and expand my knowledge. Currently, I am studying at Turing College
+- :seedling: I am always trying to grow and expand my knowledge. I have recently graduated from Turing College
 - :bulb: I enjoy working at the edge of the knowledge, pushing the boundaries and innovating
 - :1st_place_medal: Last year, our team pitched a winning idea in the UpdatEd hackathon
 
