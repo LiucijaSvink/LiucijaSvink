@@ -6,11 +6,14 @@
 
 <h3 align="left">About me</h3>
 
-- :brain: Currently, I am engineering AI systems for diagnostics
-- :purple_heart: The part I love most about my work is working with data
-- :seedling: I am always trying to grow and expand my knowledge. I have recently graduated from Turing College
-- :bulb: I enjoy working at the edge of the knowledge, pushing the boundaries and innovating
-- :1st_place_medal: Last year, our team pitched a winning idea in the UpdatEd hackathon
+- :brain: Data Scientist focused on building recommender systems and AI-driven applications using LLMs, RAG pipelines, and agentic workflows
+- :purple_heart: Most excited by transforming messy data into useful, human-centered products and experiences
+- :rocket: Experienced in building recommendation, retrieval, and ranking systems using PySpark for big data processing and AWS for deployment
+- :microscope: ML engineering experience in healthcare and neurotechnology, working with brain-signal data and diagnostic models
+- :bulb: Interested in search and recommendation problems, agentic AI applications, and real-world product use cases
+- :seedling: Continuously learning and experimenting with modern AI workflows, LLM applications, and multi-agent systems
+- :1st_place_medal: Part of the winning team at the UpdatEd hackathon
+- :mortar_board: Graduate of Turing College
 
 <h3 align="left">Technology and tools I work with </h3>
 <p align="left"> 
